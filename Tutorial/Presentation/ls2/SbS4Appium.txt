@@ -1,0 +1,41 @@
+15 steps Installation Guide download
+Section 2, Lecture 11
+13 Step by Step Instructions to Configure and run Mobile Automation Testcases using Appium
+
+1.Download Java and set Java_Home in environmental variables
+2.Download Android STUDIO from below link
+https://developer.android.com/studio/index.html
+3.Check Android installation path in Machine
+4.Set Android_Home Environmental variables path to SDK location and include bin folder paths in PATH variable
+5.Open Android Studio and configure Virtual device/Emulator
+6.Open Emulator and check if it is working.
+7.Download Node.js                                                                                                                        
+https://nodejs.org/en/download/
+8.Set Node_Home Environmental variables path
+9.Set npm Environmental variables path
+10.Download Appium Server from Node
+11.Download Appium and Selenium Java client library
+12.Install Eclipse – Create a Project in Eclipse - configure Appium libraries
+13.Start Appium Server-
+//Client  - Appium java  client
+
+//Server  - Appium Server
+
+ALL SET GOOOOO
+
+//You can download any node module only using npm
+
+1.1
+
+npm install – g appium –  Latest Stable release version 1.6.9 – Android 7 version
+
+npm uninstall -g appium
+
+//npm install -g appium@beta --no-shrinkwrap
+
+Appium – starts the server
+
+rahulonlinetutor@gmail.com
+
+-2.1 – Android 11
+appium

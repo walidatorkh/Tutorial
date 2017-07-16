@@ -1,0 +1,6 @@
+Prerequistes: start appium server
+
+1. My Desired Capabilities
+I want to open emulator
+xyz app - installation
+Connection to server

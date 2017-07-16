@@ -1,0 +1,3 @@
+C:\Users\lenovo\AppData\Local\Android\sdk\platform-tools>adb install "C:\Users\lenovo\AppData\Local\Android\sdk\platform-tools\apk\com.google.android.apps.youtube.kids_82405173.apk"
+
+C:\Users\lenovo\AppData\Local\Android\sdk\platform-tools>adb uninstall "C:\Users\lenovo\AppData\Local\Android\sdk\platform-tools\apk\com.google.android.apps.youtube.kids_82405173.apk"
