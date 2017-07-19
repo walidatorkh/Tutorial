@@ -1,0 +1,9 @@
+Android Studio installation:
+
+C:\Program Files\Android\Android Studio
+
+Android SDK intallation
+C:\Users\lenovo\AppData\Local\Android\sdk
+
+Projects
+C:\Users\lenovo\AndroidStudioProjects\MyApplication1

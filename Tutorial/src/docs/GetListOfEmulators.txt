@@ -1,0 +1,9 @@
+[debug] [ADB] 0 device(s) connected
+C:\Users\lenovo\AppData\Local\Android\sdk\platform-tools>adb devices
+C:\Users\lenovo\AppData\Local\Android\sdk\platform-tools>adb devicesList of devices attached
+emulator-5554   device
+
+
+C:\Users\lenovo\AppData\Local\Android\sdk\tools>emulator.exe -list-avds
+Android
+demo1

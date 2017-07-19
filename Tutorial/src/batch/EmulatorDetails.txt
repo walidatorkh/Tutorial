@@ -1,0 +1,85 @@
+
+
+Name: Nexus_5X_API_25_Demo_1
+
+CPU/ABI: Google APIs Intel Atom (x86)
+
+Path: C:\Users\lenovo\.android\avd\Nexus_5X_API_25_Demo_1.avd
+
+Target: google_apis [Google APIs] (API level 25)
+
+Skin: nexus_5x
+
+SD Card: 100M
+
+hw.dPad: no
+
+runtime.network.speed: full
+
+hw.accelerometer: yes
+
+hw.device.name: Nexus 5X
+
+vm.heapSize: 256
+
+skin.dynamic: yes
+
+hw.device.manufacturer: Google
+
+hw.gps: yes
+
+hw.initialOrientation: Portrait
+
+image.androidVersion.api: 25
+
+hw.audioInput: yes
+
+image.sysdir.1: system-images\android-25\google_apis\x86\
+
+tag.id: google_apis
+
+showDeviceFrame: yes
+
+hw.camera.back: emulated
+
+hw.mainKeys: no
+
+AvdId: Nexus_5X_API_25_Demo_1
+
+hw.camera.front: emulated
+
+hw.lcd.density: 420
+
+avd.ini.displayname: Nexus 5X API 25 Demo 1
+
+hw.gpu.mode: auto
+
+hw.device.hash2: MD5:1be89bc42ec9644d4b77968b23474980
+
+hw.ramSize: 1536
+
+hw.trackBall: no
+
+PlayStore.enabled: false
+
+hw.battery: yes
+
+hw.cpu.ncore: 2
+
+hw.sdCard: yes
+
+tag.display: Google APIs
+
+runtime.network.latency: none
+
+hw.keyboard: yes
+
+hw.sensors.proximity: yes
+
+disk.dataPartition.size: 800M
+
+hw.sensors.orientation: yes
+
+avd.ini.encoding: UTF-8
+
+hw.gpu.enabled: yes
